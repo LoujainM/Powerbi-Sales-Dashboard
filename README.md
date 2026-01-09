@@ -1,4 +1,4 @@
-# Power BI Sales Dashboard
+# Executive Revenue Monitoring Dashboard
 
 ## Objective
 Build an interactive sales dashboard to monitor KPIs, trends, and performance by region and category.
